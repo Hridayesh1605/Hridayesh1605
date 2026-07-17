@@ -1,36 +1,263 @@
-<h1 align="center">Hi 👋, I'm Hridayesh More</h1>
-<h3 align="center">A passionate DevOps Engineer from India</h3>
+<div align="center">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hridayesh1605" alt="hridayesh1605" /></a> </p>
+# Hi there, I'm Hridayesh More 👋
 
-- 🔭 I’m currently working on [Cloud Infrastructure Automation & DevOps Projects](https://github.com/Hridayesh1605)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=FF9900&center=true&vCenter=true&width=750&lines=Cloud+Engineer;AWS+%7C+Azure+%7C+DevOps;Linux+%7C+Automation+%7C+Infrastructure;Building+Reliable+Cloud+Solutions;Always+Learning+Something+New" alt="Typing SVG" />
 
-- 🌱 I’m currently learning **Kubernetes • Terraform • GitHub Actions • Ansible • Prometheus • Grafana • Platform Engineering**
+### ☁️ Cloud Engineer | DevOps Enthusiast | Linux Administrator
 
-- 👯 I’m looking to collaborate on [Open Source DevOps, Kubernetes & Cloud Automation Projects](https://github.com/Hridayesh1605)
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=ff9900&style=for-the-badge" />
 
-- 🤝 I’m looking for help with [Advanced Kubernetes, Platform Engineering & GitOps (ArgoCD)](https://github.com/Hridayesh1605)
+</div>
 
-- 👨‍💻 All of my projects are available at [https://hridayesh-more-1605.netlify.app/](https://hridayesh-more-1605.netlify.app/)
+---
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/hridayesh-more/](https://www.linkedin.com/in/hridayesh-more/)
+# 💫 About Me
 
-- 💬 Ask me about **AWS, Azure, Linux Administration, Docker, Kubernetes, Terraform, CI/CD, GitHub Actions, Monitoring, Networking**
+I'm a **Cloud Engineer** with **2+ years of experience** designing, automating, and maintaining cloud infrastructure and Linux environments.
 
-- 📫 How to reach me **hridayeshsmore@gmail.com**
+I enjoy solving infrastructure problems through automation, improving system reliability, and building scalable cloud solutions.
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Ze989bSRF7x5HIEoI-ExtI_y_anz8Y20/view?usp=sharing](https://drive.google.com/file/d/1Ze989bSRF7x5HIEoI-ExtI_y_anz8Y20/view?usp=sharing)
+My experience includes:
 
-- ⚡ Fun fact **I enjoy automating repetitive tasks—if I do it twice, I probably script it.**
+- ☁️ AWS & Azure Cloud
+- 🐧 Linux Administration (Rocky Linux)
+- 🚀 DevOps Automation
+- 🔐 Security Hardening
+- 📦 Infrastructure Migration
+- 🔄 Disaster Recovery
+- 💰 Cloud Cost Optimization
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/hridayesh-more/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hridayesh-more/" height="30" width="40" /></a>
+> **"Building cloud infrastructure one commit at a time."**
+
+---
+
+# 🚀 What I Do
+
+✔ Cloud Infrastructure Deployment
+
+✔ DevOps Automation
+
+✔ Infrastructure as Code
+
+✔ CI/CD Pipelines
+
+✔ Linux Administration
+
+✔ GitLab Administration
+
+✔ Cloud Security
+
+✔ Monitoring & Logging
+
+✔ Disaster Recovery Planning
+
+✔ Production Support
+
+---
+
+# 🛠 Tech Stack
+
+## ☁️ Cloud
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,azure" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hridayesh1605&show_icons=true&locale=en&layout=compact" alt="hridayesh1605" /></p>
+## ⚙ DevOps
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hridayesh1605&show_icons=true&locale=en" alt="hridayesh1605" /></p>
+<p>
+<img src="https://skillicons.dev/icons?i=docker,terraform,ansible,jenkins,git,github" />
+</p>
+
+---
+
+## 💻 Operating System
+
+<p>
+<img src="https://skillicons.dev/icons?i=linux,bash" />
+</p>
+
+Rocky Linux • Bash Scripting
+
+---
+
+## 📈 Monitoring
+
+- AWS CloudWatch
+- Grafana
+- Prometheus
+- Loki
+
+---
+
+## 💻 Tools
+
+GitLab
+
+Nginx
+
+Apache
+
+Tomcat
+
+Systemd
+
+SSH
+
+IAM
+
+Route53
+
+S3
+
+EC2
+
+VPC
+
+Load Balancer
+
+Auto Scaling
+
+CloudFormation
+
+---
+
+# 🏆 Certifications
+
+🏅 AWS Certified Cloud Practitioner
+
+🏅 AWS Certified AI Practitioner
+
+🏅 Microsoft Azure Fundamentals (AZ-900)
+
+🏅 Microsoft Azure Administrator Associate (AZ-104)
+
+---
+
+# 📂 Featured Projects
+
+## 🚀 GitLab Migration to Rocky Linux 9
+
+Migrated GitLab from Amazon Linux 2 to Rocky Linux 9 with zero data loss while preserving repositories, CI/CD pipelines, and user access.
+
+**Tech**
+
+AWS • GitLab • Linux • Bash
+
+---
+
+## ☁️ Azure Site Recovery Disaster Recovery
+
+Executed Disaster Recovery drills using Azure Site Recovery by failing over production workloads, validating application functionality, and performing failback operations.
+
+**Tech**
+
+Azure • ASR • Linux • DR
+
+---
+
+## 🔄 Enterprise Linux Migration
+
+Migrated enterprise applications from legacy Linux distributions to Rocky Linux, installing Java, Tomcat, Nginx, Apache, and deploying production applications with minimal downtime.
+
+**Tech**
+
+Rocky Linux • Java • Tomcat • Nginx • Apache
+
+---
+
+## ⚙ Infrastructure Automation
+
+Developed Bash scripts to automate server provisioning, patching, log archival, backups, health checks, and routine administrative operations.
+
+**Tech**
+
+Linux • Bash • AWS
+
+---
+
+## 📊 Cloud Monitoring Platform
+
+Implemented infrastructure monitoring using CloudWatch, Prometheus, Grafana, and Loki to improve visibility, troubleshooting, and operational reliability.
+
+**Tech**
+
+AWS • CloudWatch • Grafana • Loki • Prometheus
+
+---
+
+## 🔐 Infrastructure Security Hardening
+
+Implemented Linux security hardening, vulnerability remediation, audit configuration, SSL deployment, and secure web server configurations following best practices.
+
+**Tech**
+
+Linux • Nginx • Apache • SSL • Security
+
+---
+
+# 📈 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=transparent"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=algolia&margin-w=15&margin-h=15"/>
+
+</div>
+
+---
+
+# 🌱 Currently Learning
+
+- Kubernetes
+- GitHub Actions
+- Advanced Terraform
+- AWS DevOps
+- Platform Engineering
+- Observability
+
+---
+
+# 🤝 Let's Connect
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/hridayesh-more/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://hridayesh-more-1605.netlify.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me"/>
+</a>
+
+<a href="mailto:hridayeshsmore@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### ⚡ Fun Fact
+
+**Building cloud infrastructure one commit at a time. ☁️**
+
+⭐ *If you like my work, consider starring my repositories!*
+
+</div>
