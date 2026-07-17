@@ -282,9 +282,9 @@ Security Best Practices
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Hridayesh1605"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Hridayesh1605&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hridayesh1605&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Hridayesh1605&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -300,7 +300,7 @@ Security Best Practices
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Hridayesh1605&theme=algolia&row=1&column=7&no-frame=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Hridayesh1605&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=7"/>
 
 </div>
 
