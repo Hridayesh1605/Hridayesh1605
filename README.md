@@ -56,84 +56,15 @@ I enjoy solving production challenges involving Linux administration, cloud migr
 
 # ⚡ Experience Highlights
 
-### ☁ GitLab Migration
-
-Migrated GitLab from **Amazon Linux 2** to **Rocky Linux 9** while preserving repositories, CI/CD pipelines, users and configurations.
-
-✔ Zero Downtime
-
-✔ Zero Data Loss
-
-✔ Successful Production Migration
-
----
-
-### 🔄 Disaster Recovery
-
-Executed Azure Site Recovery (ASR) disaster recovery drills.
-
-✔ Production Failover
-
-✔ Successful Failback
-
-✔ Infrastructure Validation
-
----
-
-### ⚙ Infrastructure Automation
-
-Automated Linux administration using Bash.
-
-✔ Server Health Checks
-
-✔ Backup Automation
-
-✔ Log Rotation
-
-✔ Deployment Automation
-
----
-
-### 🐧 Linux Migration
-
-Migrated enterprise Java applications to Rocky Linux.
-
-Configured
-
-- Java
-- Tomcat
-- Apache
-- Nginx
-
----
-
-### 📊 Monitoring
-
-Implemented
-
-- CloudWatch
-
-- Grafana
-
-- Loki
-
-- Prometheus
-
----
-
-### 🔐 Security
-
-Implemented
-
-- SSL
-
-- auditd
-
-- Vulnerability Remediation
-
-- Linux Hardening
-
-- Security Best Practices
+| Achievement | Impact |
+|------------|--------|
+| ☁️ GitLab Migration | Migrated GitLab from Amazon Linux 2 → Rocky Linux 9 with **zero downtime** and **zero data loss**. |
+| 🔄 Disaster Recovery | Executed Azure Site Recovery drills with successful production failover and failback. |
+| ⚙️ Infrastructure Automation | Automated deployments, patching, backups and monitoring using Bash, reducing repetitive manual work. |
+| 🐧 Linux Migration | Migrated enterprise Java applications to Rocky Linux with Apache, Nginx and Tomcat configuration. |
+| 📊 Monitoring | Implemented CloudWatch, Grafana, Prometheus and Loki for centralized monitoring. |
+| 🔐 Security | Performed Linux hardening, SSL implementation, auditd configuration and vulnerability remediation. |
+| 💰 Cost Optimization | Contributed to AWS infrastructure optimization and resource right-sizing. |
 
   # 🛠 Technology Dashboard
 
@@ -237,6 +168,63 @@ Systemd
 <img src="https://img.shields.io/badge/Amazon_CloudWatch-FF9900?style=for-the-badge&logo=amazonaws"/>
 
 </p>
+
+</td>
+
+</tr>
+
+</table>
+
+# 🛠 Technology Dashboard
+
+<table>
+
+<tr>
+
+<td width="50%" align="center">
+
+### ☁️ Cloud
+
+<img src="https://skillicons.dev/icons?i=aws,azure"/><br><br>
+
+`EC2` `S3` `IAM` `VPC`<br>
+`Route53` `CloudFormation`<br>
+`Load Balancer` `Auto Scaling`
+
+</td>
+
+<td width="50%" align="center">
+
+### ⚙️ DevOps
+
+<img src="https://skillicons.dev/icons?i=docker,terraform,ansible,jenkins,gitlab"/><br><br>
+
+Docker • Terraform • Jenkins<br>
+Ansible • GitLab
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+### 🐧 Linux & Web
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=linux,bash,nginx,apache,tomcat"/><br><br>
+
+Rocky Linux • Bash • SSH • Systemd
+
+</td>
+
+<td align="center">
+
+### 📊 Monitoring
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=grafana,prometheus,loki"/><br><br>
+
+<img src="https://img.shields.io/badge/Amazon_CloudWatch-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 
 </td>
 
