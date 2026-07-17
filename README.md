@@ -1,223 +1,127 @@
+# Hi, I'm Hridayesh More 👋
+
 <div align="center">
 
-# Hi there, I'm Hridayesh More 👋
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3500&pause=1000&color=FF9900&center=true&vCenter=true&width=900&lines=Cloud+Engineer;AWS+%7C+Azure+%7C+DevOps;Linux+Administrator;Infrastructure+Automation;Building+Reliable+Cloud+Infrastructure" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=FF9900&center=true&vCenter=true&width=750&lines=Cloud+Engineer;AWS+%7C+Azure+%7C+DevOps;Linux+%7C+Automation+%7C+Infrastructure;Building+Reliable+Cloud+Solutions;Always+Learning+Something+New" alt="Typing SVG" />
+### ☁️ Cloud Engineer • AWS • Azure • DevOps • Linux
 
-### ☁️ Cloud Engineer | DevOps Enthusiast | Linux Administrator
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=ff9900&style=for-the-badge" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hridayesh-more/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me)](https://hridayesh-more-1605.netlify.app/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail)](mailto:hridayeshsmore@gmail.com)
 
 </div>
 
 ---
 
-# 💫 About Me
+# 💡 About Me
 
-I'm a **Cloud Engineer** with **2+ years of experience** designing, automating, and maintaining cloud infrastructure and Linux environments.
+Cloud Engineer with **2+ years** of experience in AWS, Azure and Linux administration, specializing in infrastructure automation, production deployments, cloud migration, monitoring and disaster recovery.
 
-I enjoy solving infrastructure problems through automation, improving system reliability, and building scalable cloud solutions.
+## ⚡ Experience Highlights
 
-My experience includes:
-
-- ☁️ AWS & Azure Cloud
-- 🐧 Linux Administration (Rocky Linux)
-- 🚀 DevOps Automation
-- 🔐 Security Hardening
-- 📦 Infrastructure Migration
-- 🔄 Disaster Recovery
-- 💰 Cloud Cost Optimization
-
-> **"Building cloud infrastructure one commit at a time."**
+- 🚀 Migrated **GitLab** from Amazon Linux 2 to Rocky Linux 9 with **zero downtime** and **zero data loss**.
+- ☁️ Executed **Azure Site Recovery** disaster recovery drills for production workloads including successful failover and failback.
+- ⚙️ Automated operational tasks using **Bash scripting**, reducing manual effort and improving deployment consistency.
+- 🐧 Migrated enterprise Java applications to **Rocky Linux**, configuring Java, Apache, Nginx and Tomcat.
+- 📊 Built centralized monitoring using **CloudWatch, Grafana, Prometheus and Loki**.
+- 🔐 Implemented Linux hardening, SSL/TLS, auditd configuration and vulnerability remediation.
+- 💰 Contributed to cloud cost optimization through infrastructure review and right-sizing.
 
 ---
 
-# 🚀 What I Do
+# 🛠 Technology Dashboard
 
-✔ Cloud Infrastructure Deployment
+| Cloud | DevOps |
+|-------|---------|
+| AWS, Azure, EC2, S3, IAM, VPC, Route53, CloudFormation, Load Balancer, Auto Scaling | Docker, Terraform, Jenkins, Ansible, GitLab |
 
-✔ DevOps Automation
-
-✔ Infrastructure as Code
-
-✔ CI/CD Pipelines
-
-✔ Linux Administration
-
-✔ GitLab Administration
-
-✔ Cloud Security
-
-✔ Monitoring & Logging
-
-✔ Disaster Recovery Planning
-
-✔ Production Support
+| Linux & Web | Monitoring |
+|-------------|------------|
+| Rocky Linux, Bash, Nginx, Apache, Tomcat, SSH, Systemd | CloudWatch, Grafana, Prometheus, Loki |
 
 ---
 
-# 🛠 Tech Stack
+# 🚀 Featured Projects
 
-## ☁️ Cloud
+### ☁️ GitLab Migration to Rocky Linux 9
+Migrated GitLab from Amazon Linux 2 to Rocky Linux 9 while preserving repositories, pipelines and configuration.
 
-<p>
-<img src="https://skillicons.dev/icons?i=aws,azure" />
-</p>
+### 🔄 Azure Site Recovery
+Validated production disaster recovery with Azure Site Recovery including failover and failback testing.
 
----
+### 🐧 Enterprise Linux Migration
+Migrated Java applications to Rocky Linux with Apache, Nginx and Tomcat deployment.
 
-## ⚙ DevOps
+### ⚙️ Infrastructure Automation
+Automated patching, log archival, health checks and operational tasks using Bash.
 
-<p>
-<img src="https://skillicons.dev/icons?i=docker,terraform,ansible,jenkins,git,github" />
-</p>
+### 📊 Monitoring Platform
+Implemented centralized monitoring using CloudWatch, Grafana, Prometheus and Loki.
 
----
-
-## 💻 Operating System
-
-<p>
-<img src="https://skillicons.dev/icons?i=linux,bash" />
-</p>
-
-Rocky Linux • Bash Scripting
+### 🔐 Security Hardening
+Configured SSL, auditd, vulnerability remediation and Linux security best practices.
 
 ---
 
-## 📈 Monitoring
+# 🏅 Certifications
 
-- AWS CloudWatch
-- Grafana
-- Prometheus
-- Loki
-
----
-
-## 💻 Tools
-
-GitLab
-
-Nginx
-
-Apache
-
-Tomcat
-
-Systemd
-
-SSH
-
-IAM
-
-Route53
-
-S3
-
-EC2
-
-VPC
-
-Load Balancer
-
-Auto Scaling
-
-CloudFormation
-
----
-
-# 🏆 Certifications
-
-🏅 AWS Certified Cloud Practitioner
-
-🏅 AWS Certified AI Practitioner
-
-🏅 Microsoft Azure Fundamentals (AZ-900)
-
-🏅 Microsoft Azure Administrator Associate (AZ-104)
-
----
-
-# 📂 Featured Projects
-
-## 🚀 GitLab Migration to Rocky Linux 9
-
-Migrated GitLab from Amazon Linux 2 to Rocky Linux 9 with zero data loss while preserving repositories, CI/CD pipelines, and user access.
-
-**Tech**
-
-AWS • GitLab • Linux • Bash
-
----
-
-## ☁️ Azure Site Recovery Disaster Recovery
-
-Executed Disaster Recovery drills using Azure Site Recovery by failing over production workloads, validating application functionality, and performing failback operations.
-
-**Tech**
-
-Azure • ASR • Linux • DR
-
----
-
-## 🔄 Enterprise Linux Migration
-
-Migrated enterprise applications from legacy Linux distributions to Rocky Linux, installing Java, Tomcat, Nginx, Apache, and deploying production applications with minimal downtime.
-
-**Tech**
-
-Rocky Linux • Java • Tomcat • Nginx • Apache
-
----
-
-## ⚙ Infrastructure Automation
-
-Developed Bash scripts to automate server provisioning, patching, log archival, backups, health checks, and routine administrative operations.
-
-**Tech**
-
-Linux • Bash • AWS
-
----
-
-## 📊 Cloud Monitoring Platform
-
-Implemented infrastructure monitoring using CloudWatch, Prometheus, Grafana, and Loki to improve visibility, troubleshooting, and operational reliability.
-
-**Tech**
-
-AWS • CloudWatch • Grafana • Loki • Prometheus
-
----
-
-## 🔐 Infrastructure Security Hardening
-
-Implemented Linux security hardening, vulnerability remediation, audit configuration, SSL deployment, and secure web server configurations following best practices.
-
-**Tech**
-
-Linux • Nginx • Apache • SSL • Security
+- AWS Certified Cloud Practitioner
+- AWS Certified AI Practitioner
+- Microsoft Azure Fundamentals (AZ-900)
+- Microsoft Azure Administrator Associate (AZ-104)
 
 ---
 
 # 📈 GitHub Analytics
 
-<div align="center">
+Replace `YOUR_GITHUB_USERNAME` below.
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&rank_icon=github"/>
+```md
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=transparent"/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
 
-</div>
+![Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=algolia)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=github-dark)
+```
 
 ---
 
-# 🏆 GitHub Trophies
+# 🐍 Contribution Snake
 
-<div align="center">
+Create `.github/workflows/snake.yml` and use:
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=algolia&margin-w=15&margin-h=15"/>
+```yaml
+name: Generate Snake
 
-</div>
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: YOUR_GITHUB_USERNAME
+          outputs: dist/github-contribution-grid-snake-dark.svg
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+Then display:
+
+```md
+<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg">
+```
 
 ---
 
@@ -226,38 +130,16 @@ Linux • Nginx • Apache • SSL • Security
 - Kubernetes
 - GitHub Actions
 - Advanced Terraform
-- AWS DevOps
 - Platform Engineering
-- Observability
 
 ---
 
-# 🤝 Let's Connect
+# 🤝 Connect
 
-<p align="center">
-
-<a href="https://www.linkedin.com/in/hridayesh-more/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://hridayesh-more-1605.netlify.app/">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me"/>
-</a>
-
-<a href="mailto:hridayeshsmore@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-
-</p>
+- LinkedIn: https://www.linkedin.com/in/hridayesh-more/
+- Portfolio: https://hridayesh-more-1605.netlify.app/
+- Email: hridayeshsmore@gmail.com
 
 ---
 
-<div align="center">
-
-### ⚡ Fun Fact
-
-**Building cloud infrastructure one commit at a time. ☁️**
-
-⭐ *If you like my work, consider starring my repositories!*
-
-</div>
+> **"Automate everything possible. Build reliable infrastructure. Keep learning."**
