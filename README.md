@@ -27,18 +27,6 @@
 </div>
 
 
-╔════════════════════════════════════════════════════════════════════╗
-║                                                                   ║
-║              ☁️  HRIDAYESH MORE                                   ║
-║                                                                   ║
-║                    CLOUD ENGINEER                                 ║
-║                                                                   ║
-║          AWS • AZURE • DEVOPS • LINUX                             ║
-║                                                                   ║
-║      Automating Infrastructure | Cloud Migration                  ║
-║          High Availability | Security                             ║
-║                                                                   ║
-╚════════════════════════════════════════════════════════════════════╝
 
 # 👨‍💻 About Me
 
