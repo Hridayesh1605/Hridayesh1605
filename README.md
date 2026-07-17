@@ -292,7 +292,7 @@ Security Best Practices
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Hridayesh1605&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.vercel.app?user=Hridayesh1605&theme=tokyonight&hide_border=true"/>
 
 </div>
 
