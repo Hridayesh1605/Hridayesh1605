@@ -75,55 +75,38 @@ Configured SSL, auditd, vulnerability remediation and Linux security best practi
 
 # 📈 GitHub Analytics
 
-Replace `YOUR_GITHUB_USERNAME` below.
+<div align="center">
 
-```md
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Hridayesh1605&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hridayesh1605&layout=compact&theme=tokyonight&hide_border=true"/>
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=algolia)
+</div>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=github-dark)
-```
+<br>
 
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Hridayesh1605&theme=algolia&no-frame=true&row=1&column=7"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hridayesh1605&theme=tokyo-night&hide_border=true"/>
+
+</div>
 ---
 
-# 🐍 Contribution Snake
+## 🐍 Contribution Snake
 
-Create `.github/workflows/snake.yml` and use:
+<div align="center">
 
-```yaml
-name: Generate Snake
+<img src="https://raw.githubusercontent.com/Hridayesh1605/Hridayesh1605/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
 
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: YOUR_GITHUB_USERNAME
-          outputs: dist/github-contribution-grid-snake-dark.svg
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-Then display:
-
-```md
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg">
-```
-
----
+</div>
 
 # 🌱 Currently Learning
 
