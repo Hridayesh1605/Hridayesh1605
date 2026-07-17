@@ -1,3 +1,32 @@
+<div align="center">
+
+<img src="assets/banner.png" width="100%" alt="Hridayesh More Banner"/>
+
+# ☁️ Hridayesh More
+
+### Cloud Engineer • AWS • Azure • DevOps • Linux
+
+<p>
+
+<a href="https://www.linkedin.com/in/hridayesh-more/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://hridayesh-more-1605.netlify.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
+</a>
+
+<a href="mailto:hridayeshsmore@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=Hridayesh1605&style=for-the-badge&color=orange"/>
+
+</div>
+
+
 ╔════════════════════════════════════════════════════════════════════╗
 ║                                                                   ║
 ║              ☁️  HRIDAYESH MORE                                   ║
